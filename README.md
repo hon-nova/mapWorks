@@ -1,6 +1,9 @@
 ## A.PREVIEW
 
    ![mapworks](public/mapworks.png)
+   <hr/>
+   
+   ![mapworks](public/mapworks2.png)
 
 ## B. FIXED BUGS
 
